@@ -1,0 +1,59 @@
+
+Speech Processing and Synthesis
+
+Course Objectives:
+
+To explore the fundamentals of digital speech processing 
+To understand the basic concepts and algorithms of speech processing and synthesis 
+To familiarize the students with the various speech signal representation, coding and recognition techniques 
+To appreciate the use of speech processing in current technologies and to expose the students to real  
+world applications of speech processing 
+
+UNIT – I 	FUNDAMENTALS OF DIGITAL SPEECH PROCESSING			9	
+Introduction – Discrete-Time signals and systems – Transform representation of Signals and systems- 
+Fundamentals of digital filters – Sampling - Process of Speech Production - Acoustic Theory of Speech Production -  
+Digital models for speech signals.
+
+UNIT – II 	SPEECH SIGNAL ANALYSIS IN TIME AND FREQUENCY DOMAIN	9	
+Time-Dependent processing of speech – Methods for extracting the parameters – 
+Energy, Average Magnitude,  Zero-crossing rate -  Slience discrimation using ZCR and energy - 
+Short-time autocorreleation function - Pitch period estimation using autocorrelation function 
+
+UNIT – III  	SPEECH SIGNAL ANALYSIS IN FREQUENCY DOMAIN			9
+
+Short time fourier analysis – Fourier transform and linear interpretations – Sampling rates – 
+Spectrographic Displays - Formant extraction – Pitch extraction -  Linear predictive coding -  
+Autocorrelation method – Covariance method – Solution of LPC equations – Durbin’s Recursive solution – 
+Application of LPC parameters – Pitch detection.
+
+UNIT – IV SPEECH RECOGNITION 								9
+
+Introdcution – Preprocessing – Parametric representation – Speech segmentation – Dynamic time warping –
+Vector quantization – Hidden Markov Model – Language Models – Developing an Isolated digit recognition system
+
+UNIT – V SPEECH SYNTHESIS									9
+
+Attributes of speech synthesis – Formant speech synthesis – Concatenative speech synthesis – 
+Prosodic modification of speech – Source filter models for prosody modification – Evaluation of TTS system
+  
+											                                                                                Total : 45 Periods
+Course outcomes
+
+Upon completion of the course, the students should be able to
+
+Illustrate how the speech production  is modelled(K2)
+Analyze various techniques involved in collecting the features from the speech signal in both time and frequency domain(K3)
+Developing a speech recognition system using statistical approach(K3)
+Compare the various methods of speech synthesis(K2)
+
+References 
+
+1. L. R. Rabiner and R. W. Schaffer, “Digital Processing of Speech signals”,    Prentice Hall, 1978.
+2. Xuedong Huang, Alex Acero, Hsiao-Wuen Hon, “Spoken Language Processing – A guide to
+    Theory, Algorithm and System Development”, Prentice Hall PTR, 2001.
+3. Lawrence Rabiner and Biing-Hwang Juang, “Fundamentals of Speech Recognition”, Prentice
+    Hall Signal Processing Series, 1993.
+4. Thomas F.Quatieri, “Discrete-Time Speech Signal Processing”, Pearson Education, 2002.
+5. Ben Gold and Nelson Morgan, “Speech and Audio Signal Processing”,      
+   John Wiley and Sons Inc., Singapore, 2004.
+
