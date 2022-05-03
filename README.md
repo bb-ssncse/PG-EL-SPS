@@ -10,21 +10,21 @@ PG(CSE)-ELECIVE-SPEECH PROCESSING AND SYNTHESIS - CONTRIBUTORS DR. B.BHARATHI
 - To familiarize the students with the various speech signal representation, coding and recognition techniques. 
 - To study the concepts and evaluation method of speech synthesis. 
 
-{{{unit}}}
+
 |Unit I |Fundamentals of Digital Speech Processing|9|
 Introduction: Discrete-Time signals and systems -- Transform
 representation of Signals and systems -- Fundamentals of digital
 filters -- Sampling; Process of Speech Production -- Acoustic theory
 of speech production -- Digital models for speech signals.
 
-{{{unit}}}
+
 |Unit II |Speech Signal Analysis in Time Domain|9|
 Time-dependent processing of speech -- Methods for extracting the
 parameters: Energy -- Average Magnitude -- Zero-crossing rate; Slience
 discrimation using ZCR and energy -- Short-time autocorreleation
 function -- Pitch period estimation using autocorrelation function.
 
-{{{unit}}}
+
 |Unit III|Speech Signal Analysis in Frequency Domain|9|
 Short time fourier analysis -- Fourier transform and linear
 interpretations -- Sampling rates -- Spectrographic Displays --
@@ -33,14 +33,14 @@ Autocorrelation method -- Covariance method; Solution of LPC equations
 -- Durbin’s Recursive solution -- Application of LPC parameters --
 Pitch detection.
 
-{{{unit}}}
+
 |Unit IV|Speech Recognition|9|
 Introduction -- Preprocessing -- Parametric representation -- Speech
 segmentation -- Dynamic time warping -- Vector quantization -- Hidden
 Markov Model -- Language Models -- Developing an isolated digit
 recognition system.
 
-{{{unit}}}
+
 |Unit V|Speech Synthesis|9|
 Attributes of speech synthesis -- Formant speech synthesis --
 Concatenative speech synthesis -- Prosodic modification of speech --
