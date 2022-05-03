@@ -11,21 +11,24 @@ PG(CSE)-ELECIVE-SPEECH PROCESSING AND SYNTHESIS - CONTRIBUTORS DR. B.BHARATHI
 - To study the concepts and evaluation method of speech synthesis. 
 
 
-|Unit I |Fundamentals of Digital Speech Processing|9|
+|Unit I |Fundamentals of Digital Speech Processing                      |9|
+
 Introduction: Discrete-Time signals and systems -- Transform
 representation of Signals and systems -- Fundamentals of digital
 filters -- Sampling; Process of Speech Production -- Acoustic theory
 of speech production -- Digital models for speech signals.
 
 
-|Unit II |Speech Signal Analysis in Time Domain|9|
+|Unit II |Speech Signal Analysis in Time Domain                       |9|
+
 Time-dependent processing of speech -- Methods for extracting the
 parameters: Energy -- Average Magnitude -- Zero-crossing rate; Slience
 discrimation using ZCR and energy -- Short-time autocorreleation
 function -- Pitch period estimation using autocorrelation function.
 
 
-|Unit III|Speech Signal Analysis in Frequency Domain|9|
+|Unit III|Speech Signal Analysis in Frequency Domain                       |9|
+
 Short time fourier analysis -- Fourier transform and linear
 interpretations -- Sampling rates -- Spectrographic Displays --
 Formant extraction -- Pitch extraction -- Linear predictive coding:
@@ -34,14 +37,15 @@ Autocorrelation method -- Covariance method; Solution of LPC equations
 Pitch detection.
 
 
-|Unit IV|Speech Recognition|9|
+|Unit IV|Speech Recognition                                             |9|
+
 Introduction -- Preprocessing -- Parametric representation -- Speech
 segmentation -- Dynamic time warping -- Vector quantization -- Hidden
 Markov Model -- Language Models -- Developing an isolated digit
 recognition system.
 
 
-|Unit V|Speech Synthesis|9|
+|Unit V|Speech Synthesis                  |9|
 Attributes of speech synthesis -- Formant speech synthesis --
 Concatenative speech synthesis -- Prosodic modification of speech --
 Source filter models for prosody modification -- Evaluation of TTS
