@@ -1,14 +1,6 @@
 # PG-EL-SPS
 PG(CSE)-ELECIVE-SPEECH PROCESSING AND SYNTHESIS - CONTRIBUTORS DR. B.BHARATHI
-* <<<CP1234>>> SPEECH PROCESSING AND SYNTHESIS
-:properties:
-:author: B Bharathi
-:date: 03 May  2022
-:end:
 
-#+startup: showall
-
-{{{credits}}}
 |L|T|P|C|
 |3|0|0|3|
 
