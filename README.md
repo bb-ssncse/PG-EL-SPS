@@ -46,6 +46,7 @@ recognition system.
 
 
 |Unit V|Speech Synthesis                  |9|
+
 Attributes of speech synthesis -- Formant speech synthesis --
 Concatenative speech synthesis -- Prosodic modification of speech --
 Source filter models for prosody modification -- Evaluation of TTS
